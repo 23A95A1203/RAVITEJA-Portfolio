@@ -746,7 +746,14 @@ h2 {
     padding: 60px 15px;
   }
 }
-/* Testimonial Ends */
+@media (max-width: 320px) {
+  .certifications--grid,
+  .badges--grid {
+    grid-template-columns: 1fr; /* Ensures a single column layout */
+  }
+}
+
+/* Certificates and badges Ends */
 /* Base styles for the contact section */
 
 .contact--section {
