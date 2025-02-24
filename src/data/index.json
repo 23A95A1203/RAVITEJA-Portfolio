@@ -1,0 +1,123 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/tag-1.png",
+      "title": "Front-End"
+    },
+    {
+      "id": "2",
+      "src": " ./img/product-chain-1.png",
+      "title": "Back-End"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-1.png  ",
+      "title": "Programming Languages"
+    },
+    {
+      "id": "4",
+      "src": " ./img/feather-pen-2.png",
+      "title": "Development Tools"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Greenleaf Kitchen",
+      "description": "A smart meal planner with grocery management.",
+      "image": "/img/GFK.png",
+      "liveLink": "https://green-leaf-kitchen.netlify.app/",
+      "sourceCode": "https://github.com/23A95A1203/iship-1"
+    },
+    {
+      "id": 2,
+      "title": "Fit-Journey",
+      "description": "A smart fitness application.",
+      "image": "/img/FIT-JOURNEY.png",
+      "liveLink": "https://fitclub-neon.vercel.app/",
+      "sourceCode": "https://github.com/23A95A1203/Fit-Journey"
+    },
+    {
+      "id": 3,
+      "title": "Weather-Forecast",
+      "description": "A smart Weather forecast application",
+      "image": "/img/Weather.png",
+      "liveLink": "https://weather-forecast-git-main-23a95a1203s-projects.vercel.app/",
+      "sourceCode": "https://github.com/23A95A1203/Weather-Forecast"
+    }
+  ],
+  "certifications": [
+    {
+      "badgeSrc": "/img/hackerrank_logo.jpg",
+      "title": "JavaScript Basic",
+      "issuer": "HackerRank",
+      "issueDate": "Sep 2024",
+      "credentialId": "531A522EE93B",
+      "link": "https://www.hackerrank.com/certificates/531a522ee93b"
+    },
+    {
+      "badgeSrc": "/img/adityauniversity_logo.jpg",
+      "title": "Machine Learning and GenAi",
+      "issuer": "Aditya University",
+      "issueDate": "Aug 2024",
+      "credentialId": "ML AI-2024/450",
+      "link": "https://adityagroup-my.sharepoint.com/personal/ala_adityauniversity_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fala%5Fadityauniversity%5Fin%2FDocuments%2FMachine%20Learning%20%26%20GenAI%20Certificates%2Ffinal%5FML%20AI%20%2D%202024%5F008%5FML%20AI%20%2D%202024%5F450%2Ejpg&parent=%2Fpersonal%2Fala%5Fadityauniversity%5Fin%2FDocuments%2FMachine%20Learning%20%26%20GenAI%20Certificates&ga=1"
+    },
+    {
+      "badgeSrc": "/img/apstateskilldevelopment_logo.jpg",
+      "title": "AWS Cloud Computing Workshop Certificate",
+      "issuer": "Andhra Pradesh State Skill Development Corporation (APSSDC)",
+      "issueDate": "Dec 2023",
+      "credentialId": "AWS/STP/23-24/1667",
+      "link": "https://drive.google.com/file/d/16vOccROCA304altgwJC5usSb_5BQwxPW/view"
+    },
+    {
+      "badgeSrc": "/img/theforage_logo.jpg",
+      "title": "Accenture Nordics - Developer Job Simulation",
+      "issuer": "Forage",
+      "issueDate": "Aug 2022",
+      "credentialId": "xhghHnkQJjxs6EgJK",
+      "link": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/PxenP4rHNE6Bh4nQz_Accenture%20Nordics_67f8KKNGtWTFoAjCo_1659349372945_completion_certificate.pdf"
+    },
+    {
+      "badgeSrc": "/img/guviofficial_logo.jpg",
+      "title": "3 Steps to become a Full Stack Developer in 3 months",
+      "issuer": "GUVI Geek Networks, IITM Research Park",
+      "issueDate": "Jul 2023",
+      "credentialId": "73p5q7gn8w332zVO19",
+      "link": "https://www.guvi.in/verify-certificate?id=73p5q7gn8w332zVO19"
+    }
+  ],
+
+  "badges": [
+    {
+      "title": "CCNA: Introduction to Networks",
+      "issuer": "Cisco",
+      "issued": "8/2/24",
+      "src": "/img/CCNAITN__1_.png",
+      "link": "https://www.credly.com/badges/3e98ce52-3abf-48f7-98b9-7de9c22f2a4f/public_url"
+    },
+    {
+      "title": "JavaScript Essentials 1",
+      "issuer": "Cisco",
+      "issued": "11/28/24",
+      "src": "/img/JSE-1.png",
+      "link": "https://www.credly.com/badges/256faea0-6739-450c-8b32-7cf3600c97aa/public_url"
+    },
+    {
+      "title": "JavaScript Essentials 2",
+      "issuer": "Cisco",
+      "issued": "1/3/25",
+      "src": "/img/JSE-1.png",
+      "link": "https://www.credly.com/badges/4a4312ce-cc49-49b8-bc71-ccf672fdaf2c/public_url"
+    },
+    {
+      "title": "Ethical Hacker",
+      "issuer": "Cisco",
+      "issued": "1/29/25",
+      "src": "/img/EH.png",
+      "link": "https://www.credly.com/badges/f994eb85-b59a-4f77-a6f6-e6da2f6157a0/public_url"
+    }
+  ]
+}
