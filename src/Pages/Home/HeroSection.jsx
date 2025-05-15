@@ -69,7 +69,7 @@ export default function HeroSection() {
             Get In Touch
           </button>
           <a
-            href="https://docs.google.com/document/d/1u6heNMtT7cuaiH6H8RneBaqMwFdDQpoxjt3yEAKWUDk/edit?tab=t.0"
+            href="https://drive.google.com/file/d/1JfR5Nx142mN7Bob5ZYZXFhaXjioykZYq/view?usp=drive_link"
             download
             className="btn btn-secondary"
           >
