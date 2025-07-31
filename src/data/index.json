@@ -22,7 +22,7 @@
     }
   ],
   "projects": [
-    {
+      {
       "id": 1,
       "title": "Greenleaf Kitchen",
       "description": "A smart meal planner with grocery management.",
@@ -32,14 +32,23 @@
     },
     {
       "id": 2,
-      "title": "Fit-Journey",
-      "description": "A smart fitness application.",
-      "image": "/img/FIT-JOURNEY.png",
-      "liveLink": "https://fitclub-neon.vercel.app/",
-      "sourceCode": "https://github.com/23A95A1203/Fit-Journey"
+      "title": "Greenleaf Kitchen",
+      "description": "A smart meal planner with grocery management.",
+      "image": "/img/GFK.png",
+      "liveLink": "https://green-leaf-kitchen.netlify.app/",
+      "sourceCode": "https://github.com/23A95A1203/iship-1"
     },
+
     {
       "id": 3,
+      "title": "Hot On Wheels",
+      "description": "A smart fitness application.",
+      "image": "/img/HotOnWheels.png",
+      "liveLink": "https://hot-on-wheels.netlify.app/",
+      "sourceCode": "https://github.com/23A95A1203/hot-on-wheels"
+    },
+    {
+      "id": 4,
       "title": "Weather-Forecast",
       "description": "A smart Weather forecast application",
       "image": "/img/Weather.png",
@@ -87,17 +96,18 @@
       "issueDate": "Jul 2023",
       "credentialId": "73p5q7gn8w332zVO19",
       "link": "https://www.guvi.in/verify-certificate?id=73p5q7gn8w332zVO19"
-    }
+    },
+    { 
+      "badgeSrc": "/img/theforage_logo.jpg", 
+      "title": "Deloitte Australia - Technology  Job Simulation", 
+      "issuer": "Forage", 
+      "issueDate": "July 2025", 
+      "credentialId": "bt5Sqhq3X5q3zMtZz", 
+      "link": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_67f8KKNGtWTFoAjCo_1752687416936_completion_certificate.pdf" }
   ],
 
   "badges": [
-    {
-      "title": "CCNA: Introduction to Networks",
-      "issuer": "Cisco",
-      "issued": "8/2/24",
-      "src": "/img/CCNAITN__1_.png",
-      "link": "https://www.credly.com/badges/3e98ce52-3abf-48f7-98b9-7de9c22f2a4f/public_url"
-    },
+   
     {
       "title": "JavaScript Essentials 1",
       "issuer": "Cisco",
@@ -112,12 +122,12 @@
       "src": "/img/JSE-1.png",
       "link": "https://www.credly.com/badges/4a4312ce-cc49-49b8-bc71-ccf672fdaf2c/public_url"
     },
-    {
-      "title": "Ethical Hacker",
+     {
+      "title": "CCNA: Introduction to Networks",
       "issuer": "Cisco",
-      "issued": "1/29/25",
-      "src": "/img/EH.png",
-      "link": "https://www.credly.com/badges/f994eb85-b59a-4f77-a6f6-e6da2f6157a0/public_url"
+      "issued": "8/2/24",
+      "src": "/img/CCNAITN__1_.png",
+      "link": "https://www.credly.com/badges/3e98ce52-3abf-48f7-98b9-7de9c22f2a4f/public_url"
     }
   ]
 }
